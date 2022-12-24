@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGeomFigures", "SimpleGeomFigures\SimpleGeomFigures.csproj", "{1F72A24B-9B43-4F28-AAAA-33064A40476D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F72A24B-9B43-4F28-AAAA-33064A40476D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F72A24B-9B43-4F28-AAAA-33064A40476D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F72A24B-9B43-4F28-AAAA-33064A40476D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F72A24B-9B43-4F28-AAAA-33064A40476D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C1683D-EABC-4A55-80BF-4BEC9979D523}
+	EndGlobalSection
+EndGlobal
